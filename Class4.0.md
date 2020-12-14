@@ -104,7 +104,7 @@ ES6中的关键字Class本质上还是通过原型链和函数做的，只不过
 
 也就如[TC39](https://github.com/tc39/)在ES6[提案](https://web.archive.org/web/20160729180156/http://wiki.ecmascript.org/doku.php?id=harmony:classes#const)上所说的：
 
-```
+```javascript
 it’s to provide a terse and declarative surface for those semantics so that programmer intent is expressed instead of the underlying imperative machinery
 ```
 
