@@ -59,7 +59,7 @@
 
 - JavaScript使用constructor方法当作构造函数，而java采用类名作为构造函数。
 
-*3. 子类（***extends**）：*
+*3. 子类（**extends**）：*
 
 - JavaScript同java一致，都使用extends来继承。
 
